@@ -3,12 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+Sistema de Presenças
 </center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -27,16 +23,16 @@
 
 # Autores
 
-* Guillermo Kuznietz - 10410134
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Arthur Lima (RA: 10409172)
+* Cláudio Dias Alves (10403569)
+* Gabriel Nogueira (10409493)
+* Guillermo Kuznietz (10410134)
+* Lucas Claudio (10410094)
 
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de Presenças** para automatizar o controle de frequência dos alunos. Atualmente, essa operação é realizada manualmente em papel, o que demanda tempo e recursos. O sistema permitirá o registro fácil e intuitivo das faltas pelos professores, gerará relatórios detalhados e enviará notificações aos pais ou responsáveis quando a porcentagem de comparecimento às aulas estiver abaixo de 80%. Além disso, garantiremos acessibilidade e compatibilidade com diversos navegadores e dispositivos móveis.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
