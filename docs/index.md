@@ -27,7 +27,7 @@
 
 # Autores
 
-* Aluno 1
+* Guillermo Kuznietz - 10410134
 * Aluno 2
 * Aluno 3
 * Aluno 4
