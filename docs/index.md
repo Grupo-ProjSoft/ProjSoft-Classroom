@@ -7,7 +7,6 @@ Sistema de Presenças
 </center></font>
 
 **Conteúdo**
-
 - [Autores](#nome-alunos)
 - [Descrição do Projeto](#introdução-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
@@ -22,7 +21,6 @@ Sistema de Presenças
 
 
 # Autores
-
 * Arthur Lima (RA: 10409172)
 * Cláudio Dias Alves (10403569)
 * Gabriel Nogueira (10409493)
@@ -31,11 +29,19 @@ Sistema de Presenças
 
 
 # Descrição do Projeto
-
 O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de Presenças** para automatizar o controle de frequência dos alunos. Atualmente, essa operação é realizada manualmente em papel, o que demanda tempo e recursos. O sistema permitirá o registro fácil e intuitivo das faltas pelos professores, gerará relatórios detalhados e enviará notificações aos pais ou responsáveis quando a porcentagem de comparecimento às aulas estiver abaixo de 80%. Além disso, garantiremos acessibilidade e compatibilidade com diversos navegadores e dispositivos móveis.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+<h3>Registro de Faltas:</h3>
+<ul>
+  <li>Permitir que os professores registrem faltas de forma fácil e intuitiva.
+  <li>Os professores devem poder indicar a data, turma, aluno e motivo da falta.
+</ul>
+<h3>Relatórios de Faltas:</h3>
+<ul>
+  <li>Gerar relatórios de faltas com as seguintes opções de agrupamento: por data; por ano do ensino; por turma; por professor disciplina; p;or aluno.
+  <li>Esses relatórios facilitarão a análise e o acompanhamento do número de faltas.
+</ul>
 
 # Diagrama de Atividades
 
