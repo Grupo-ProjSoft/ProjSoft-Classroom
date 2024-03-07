@@ -34,8 +34,31 @@ Sistema de Presenças
 
 O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de Presenças** para automatizar o controle de frequência dos alunos. Atualmente, essa operação é realizada manualmente em papel, o que demanda tempo e recursos. O sistema permitirá o registro fácil e intuitivo das faltas pelos professores, gerará relatórios detalhados e enviará notificações aos pais ou responsáveis quando a porcentagem de comparecimento às aulas estiver abaixo de 80%. Além disso, garantiremos acessibilidade e compatibilidade com diversos navegadores e dispositivos móveis.
 
+
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+Requisitos funcionais:
+
+Requisitos não funcionais: 
+* Usabilidade
+* Manutenção
+* Confiabilidade
+* Organização
+* Desempenho
+* Segurança
+* Requisitos legais e éticos
+
+* Facilidade de aprender e usar
+* Reparo e evolução do sistema
+* Disponibilidade
+* Margem de erro
+* Sistema de backup de dados
+* Acessibilidade para pessoas de necessidade
+* Função de ajuda ou dúvidas
+* Sistema de notificação
+* Restrições do usuário
+* Medidas de segurança como verificação dupla
+* Recuperação de senha
+
 
 # Diagrama de Atividades
 
