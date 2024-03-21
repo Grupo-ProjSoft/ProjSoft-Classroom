@@ -23,7 +23,7 @@ Sistema de Presenças
 
 # Autores
 
-* Arthur Lima (RA: 10409172)
+* Arthur Lima (10409172)
 * Cláudio Dias Alves (10403569)
 * Gabriel Nogueira (10409493)
 * Guillermo Kuznietz (10410134)
@@ -36,28 +36,30 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-Requisitos funcionais:
 
-Requisitos não funcionais: 
-* Usabilidade
-* Manutenção
-* Confiabilidade
-* Organização
-* Desempenho
-* Segurança
-* Requisitos legais e éticos
 
-* Facilidade de aprender e usar
-* Reparo e evolução do sistema
-* Disponibilidade
-* Margem de erro
-* Sistema de backup de dados
-* Acessibilidade para pessoas de necessidade
-* Função de ajuda ou dúvidas
-* Sistema de notificação
-* Restrições do usuário
-* Medidas de segurança como verificação dupla
-* Recuperação de senha
+<h3>Requisitos não funcionais</h3>
+<h4>Usabilidade</h4>
+<ul>
+  <li>Facilidade de aprender e usar</li>
+  <li>Acessibilidade para pessoas de necessidade</li>
+  <li>Função de ajuda ou dúvidas</li>
+  <li>Sistema de notificação</li>
+</ul>
+<h4>Manutenção e Confiabilidade</h4>
+<ul>
+  <li>Reparo e evolução do sistema</li>
+  <li>Assistência técnica</li>
+  <li>Margem de erro</li>
+</ul>
+<h4>Segurança</h4>
+<ul>
+  <li>Sistema de backup de dados</li>
+  <li>Verificação dupla</li>
+  <li>Restrições do usuário</li>
+  <li>Recuperação de senha</li>
+</ul>
+<h4>Requisitos legais e éticos</h4>
 
 
 # Diagrama de Atividades
