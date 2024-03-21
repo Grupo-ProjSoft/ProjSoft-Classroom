@@ -41,30 +41,30 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 </ul>
 <h4>Relatórios de Faltas:</h4>
 <ul>
-  <li>Gerar relatórios de faltas com as seguintes opções de agrupamento: por data; por ano do ensino; por turma; por professor disciplina; p;or aluno.
+  <li>Gerar relatórios de faltas com as seguintes opções de agrupamento: por data; por ano do ensino; por turma; por professor; por disciplina; por aluno.
   <li>Esses relatórios facilitarão a análise e o acompanhamento do número de faltas.
 </ul>
 
 <h3>Requisitos não funcionais</h3>
 <h4>Usabilidade</h4>
 <ul>
-  <li>Facilidade de aprender e usar</li>
-  <li>Acessibilidade para pessoas de necessidade</li>
-  <li>Função de ajuda ou dúvidas</li>
-  <li>Sistema de notificação</li>
+  <li>Facilidade de aprender e usar
+  <li>Acessibilidade para pessoas de necessidade
+  <li>Função de ajuda ou dúvidas
+  <li>Sistema de notificação
 </ul>
 <h4>Manutenção e Confiabilidade</h4>
 <ul>
-  <li>Reparo e evolução do sistema</li>
-  <li>Assistência técnica</li>
-  <li>Margem de erro</li>
+  <li>Reparo e evolução do sistema
+  <li>Assistência técnica
+  <li>Margem de erro
 </ul>
 <h4>Segurança</h4>
 <ul>
-  <li>Sistema de backup de dados</li>
-  <li>Verificação dupla</li>
-  <li>Restrições do usuário</li>
-  <li>Recuperação de senha</li>
+  <li>Sistema de backup de dados
+  <li>Verificação dupla
+  <li>Restrições do usuário
+  <li>Recuperação de senha
 </ul>
 <h4>Requisitos legais e éticos</h4>
 
