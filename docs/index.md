@@ -114,4 +114,7 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+<li> https://graduacao.mackenzie.br/pluginfile.php/252766/mod_resource/content/1/aula-uml-atividades.pdf
+<li> https://graduacao.mackenzie.br/pluginfile.php/252963/mod_resource/content/1/Casos-De-Uso.pdf
+<li> https://graduacao.mackenzie.br/pluginfile.php/252965/mod_resource/content/1/EngenhariaSoftware_Requisitos01.pdf
+<li> https://graduacao.mackenzie.br/pluginfile.php/252980/mod_resource/content/1/EngenhariaSoftware_Requisitos02.pdf
