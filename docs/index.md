@@ -44,14 +44,17 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
   <li>Gerar relatórios de faltas com as seguintes opções de agrupamento: por data; por ano do ensino; por turma; por professor; por disciplina; por aluno.
   <li>Esses relatórios facilitarão a análise e o acompanhamento do número de faltas.
 </ul>
+<h4>RF03 - Funções requisitadas:</h4>
+<ul> 
+<li>Acessibilidade para pessoas de necessidade
+<li>Sistema de notificação
+</ul>
 
 <h3>Requisitos não funcionais</h3>
 <h4>RNF01 - Usabilidade</h4>
 <ul>
   <li>Facilidade de aprender e usar
-  <li>Acessibilidade para pessoas de necessidade
   <li>Função de ajuda ou dúvidas
-  <li>Sistema de notificação
 </ul>
 <h4>RNF02 - Manutenção e Confiabilidade</h4>
 <ul>
@@ -71,15 +74,27 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![Diagrama_atividade_p1](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/33126b2a-13f4-4bb9-8aef-59d90ce47a99)
+![Diagrama_atividade_p2](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/7ec45296-ab79-47db-87a2-84a994a3371c)
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Diagrama_caso_de_uso](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/7d102b79-4149-49a3-b4a9-02403802556d)
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+<li> Enviar Notificação (Sistema): Este caso de uso envolve o sistema enviando automaticamente notificações por e-mail para os pais ou responsáveis quando a porcentagem de presença de um aluno nas aulas cai abaixo de 80%.
+<li>Gerar Relatório de Faltas (Pessoa): Este caso de uso permite que uma pessoa (que pode ser um professor ou membro da secretaria) gere um relatório de faltas. O relatório pode ser agrupado por data, ano do ensino, turma, professor, disciplina ou aluno.
+<li>Efetuar Login (Pessoa): Este caso de uso permite que um aluno faça login no sistema.
+<li>Alterar Senha (Pessoa): Este caso de uso permite que uma pessoa altere sua senha no sistema. Observe que a linha é pontilhada e a seta aponta para o caso de uso primário, no caso, seria efetuar login.
+<li>Gerenciar Informações do Aluno (Secretária): Este caso de uso permite que uma secretária gerencie as informações dos alunos no sistema.
+<li>Gerenciar Informações do Professor (Secretário): Este caso de uso permite que uma secretária gerencie as informações dos professores no sistema.
+<li>Gerenciar Informações da Turma (Secretaria): Este caso de uso permite que a secretaria gerencie as informações da turma no sistema.
+<li>Professor Disciplina Principal (Professor): Define o professor responsável por várias disciplinas de uma turma (Matemática, Português, Artes, Ciências, História e Geografia).
+<li>O Professor Disciplina Específica (Professor): Define o professor responsável por várias disciplinas de uma turma específicas (Educação Física ou Inglês).
+<li>Registrar Faltas (Professor): Este caso de uso permite que o professor registre as faltas dos alunos.
+<li>Atualizar Informações Pessoais (Professor): Este caso de uso permite que o professor atualize suas informações pessoais no sistema.
+<li>Atualizar Informações Pessoais (Aluno): Este caso de uso permite que o aluno atualize suas informações pessoais no sistema.
 
 # Diagrama de Sequência
 
