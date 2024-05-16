@@ -74,8 +74,7 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 
 # Diagrama de Atividades
 
-![Diagrama_atividade_p1](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/33126b2a-13f4-4bb9-8aef-59d90ce47a99)
-![Diagrama_atividade_p2](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/7ec45296-ab79-47db-87a2-84a994a3371c)
+![Diagrama_AtividadeAT](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/37564436-7104-4cf0-bc50-69cb7656a1d1)
 
 # Diagrama de Casos de Uso
 
