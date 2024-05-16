@@ -82,18 +82,7 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 
 # Descrição dos Casos de Uso
 
-<li> Enviar Notificação (Sistema): Este caso de uso envolve o sistema enviando automaticamente notificações por e-mail para os pais ou responsáveis quando a porcentagem de presença de um aluno nas aulas cai abaixo de 80%.
-<li>Gerar Relatório de Faltas (Pessoa): Este caso de uso permite que uma pessoa (que pode ser um professor ou membro da secretaria) gere um relatório de faltas. O relatório pode ser agrupado por data, ano do ensino, turma, professor, disciplina ou aluno.
-<li>Efetuar Login (Pessoa): Este caso de uso permite que um aluno faça login no sistema.
-<li>Alterar Senha (Pessoa): Este caso de uso permite que uma pessoa altere sua senha no sistema. Observe que a linha é pontilhada e a seta aponta para o caso de uso primário, no caso, seria efetuar login.
-<li>Gerenciar Informações do Aluno (Secretária): Este caso de uso permite que uma secretária gerencie as informações dos alunos no sistema.
-<li>Gerenciar Informações do Professor (Secretário): Este caso de uso permite que uma secretária gerencie as informações dos professores no sistema.
-<li>Gerenciar Informações da Turma (Secretaria): Este caso de uso permite que a secretaria gerencie as informações da turma no sistema.
-<li>Professor Disciplina Principal (Professor): Define o professor responsável por várias disciplinas de uma turma (Matemática, Português, Artes, Ciências, História e Geografia).
-<li>O Professor Disciplina Específica (Professor): Define o professor responsável por várias disciplinas de uma turma específicas (Educação Física ou Inglês).
-<li>Registrar Faltas (Professor): Este caso de uso permite que o professor registre as faltas dos alunos.
-<li>Atualizar Informações Pessoais (Professor): Este caso de uso permite que o professor atualize suas informações pessoais no sistema.
-<li>Atualizar Informações Pessoais (Aluno): Este caso de uso permite que o aluno atualize suas informações pessoais no sistema.
+![Pasta1_pages-to-jpg-0001](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/ebc15fc3-9b10-4022-9620-bb2e718bd4e3)
 
 # Diagrama de Sequência
 
