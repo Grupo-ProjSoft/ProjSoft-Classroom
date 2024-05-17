@@ -78,11 +78,11 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 
 # Diagrama de Casos de Uso
 
-![Diagrama_caso_de_uso](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/7d102b79-4149-49a3-b4a9-02403802556d)
+![Diagrama sem nome](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/e1d81695-8b6b-4742-939c-4badbd67498e)
 
 # Descrição dos Casos de Uso
 
-![Pasta1_pages-to-jpg-0001](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/ebc15fc3-9b10-4022-9620-bb2e718bd4e3)
+![Pasta1_page-0001](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/06838397-5a82-432f-97c3-0e6f8594fffc)
 
 # Diagrama de Sequência
 
