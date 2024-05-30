@@ -86,19 +86,19 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Diagrama de Sequências 2905](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/cd3c4db2-00eb-4311-b957-e24662823e8b)
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![WhatsApp Image 2024-05-29 at 18 03 21](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/f9be50fe-689a-4ce2-987a-2d8d98bacc1e)
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![WhatsApp Image 2024-05-28 at 23 19 12](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/69be5192-3f57-45be-96d6-403c865de7f8)
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![WhatsApp Image 2024-05-28 at 17 07 42](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/fb3cb746-a1d5-426c-b731-979afcf13920)
 
 # Referências
 
