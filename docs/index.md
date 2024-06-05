@@ -101,9 +101,17 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 ![WhatsApp Image 2024-05-28 at 17 07 42](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/fb3cb746-a1d5-426c-b731-979afcf13920)
 
 # Referências
-
+<li> https://app.minhabiblioteca.com.br/books/9786558040118
 <li> https://graduacao.mackenzie.br/pluginfile.php/252766/mod_resource/content/1/aula-uml-atividades.pdf
 <li> https://graduacao.mackenzie.br/pluginfile.php/252963/mod_resource/content/1/Casos-De-Uso.pdf
 <li> https://graduacao.mackenzie.br/pluginfile.php/252965/mod_resource/content/1/EngenhariaSoftware_Requisitos01.pdf
 <li> https://graduacao.mackenzie.br/pluginfile.php/252980/mod_resource/content/1/EngenhariaSoftware_Requisitos02.pdf
 <li> https://app.minhabiblioteca.com.br/books/9786558040118
+<li> https://graduacao.mackenzie.br/pluginfile.php/304573/mod_resource/content/1/Diagrama%20de%20Sequencia%2001.pdf
+<li> https://graduacao.mackenzie.br/pluginfile.php/304578/mod_resource/content/1/Diagrama%20de%20Sequencia%2002.pdf
+<li> https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224
+<li> https://graduacao.mackenzie.br/pluginfile.php/311699/mod_resource/content/2/Introducao%20-%20Objetos%20e%20Classes%20%28UML%20Classes%29.pdf
+<li> https://graduacao.mackenzie.br/pluginfile.php/311705/mod_resource/content/1/Fluxo%20de%20Etapas%20para%20UML%20Classes.pdf
+<li> https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-maquina-de-estados-uml
+<li> https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao/#:~:text=Um%20diagrama%20de%20implanta%C3%A7%C3%A3o%20%C3%A9,software%20f%C3%ADsico%20de%20um%20sistema.
+<li> https://www.youtube.com/watch?v=eEbpMeNQ-_A
