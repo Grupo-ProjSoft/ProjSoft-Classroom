@@ -85,8 +85,9 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 ![Pasta1_page-0001](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/06838397-5a82-432f-97c3-0e6f8594fffc)
 
 # Diagrama de Sequência
+Este diagrama de sequências possui: Login professor/admin, seleção da turma e da data, registro de presenças e ausências, relatórios de faltas, verificação de dados de presença, identificação dos alunos com frequência abaixo de 80% e envio de notificações para os pais.
 
-![Diagrama de Sequências 2905](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/cd3c4db2-00eb-4311-b957-e24662823e8b)
+![Diagrama de Sequências](https://github.com/Grupo-ProjSoft/ProjSoft-Classroom/assets/161867289/51066bb8-e9a7-4d44-8bff-9a5eab4128c6)
 
 # Diagrama de Classes
 
