@@ -106,3 +106,4 @@ O projeto da **Escola INFINITO** tem como objetivo desenvolver um **Sistema de P
 <li> https://graduacao.mackenzie.br/pluginfile.php/252963/mod_resource/content/1/Casos-De-Uso.pdf
 <li> https://graduacao.mackenzie.br/pluginfile.php/252965/mod_resource/content/1/EngenhariaSoftware_Requisitos01.pdf
 <li> https://graduacao.mackenzie.br/pluginfile.php/252980/mod_resource/content/1/EngenhariaSoftware_Requisitos02.pdf
+<li> https://app.minhabiblioteca.com.br/books/9786558040118
